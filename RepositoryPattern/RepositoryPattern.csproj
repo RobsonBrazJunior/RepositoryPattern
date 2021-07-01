@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CRUD\Call.csproj" />
+    <ProjectReference Include="..\Call\Call.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 

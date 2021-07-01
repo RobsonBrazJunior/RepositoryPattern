@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern", "Reposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{33B3298B-F23B-4863-8BB4-2E84903B58B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call", "CRUD\Call.csproj", "{6E1D4F3C-3E84-4720-8132-B87E93AF108D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Call", "Call\Call.csproj", "{77E4839F-D49F-4B84-88B1-4F34429DA6A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{33B3298B-F23B-4863-8BB4-2E84903B58B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33B3298B-F23B-4863-8BB4-2E84903B58B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33B3298B-F23B-4863-8BB4-2E84903B58B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6E1D4F3C-3E84-4720-8132-B87E93AF108D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E1D4F3C-3E84-4720-8132-B87E93AF108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E1D4F3C-3E84-4720-8132-B87E93AF108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E1D4F3C-3E84-4720-8132-B87E93AF108D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E4839F-D49F-4B84-88B1-4F34429DA6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E4839F-D49F-4B84-88B1-4F34429DA6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E4839F-D49F-4B84-88B1-4F34429DA6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E4839F-D49F-4B84-88B1-4F34429DA6A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
