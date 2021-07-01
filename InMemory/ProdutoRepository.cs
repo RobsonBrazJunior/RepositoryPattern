@@ -3,7 +3,7 @@ using Models.Repository;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Call
+namespace InMemory
 {
     public class ProdutoRepository : Repository<Produto>, IProdutoRepository
     {

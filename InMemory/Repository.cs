@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Call
+namespace InMemory
 {
     public abstract class Repository<T> : IRepository<T> where T : class
     {

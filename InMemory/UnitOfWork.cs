@@ -1,7 +1,7 @@
 ﻿using Models.Entities;
 using Models.Repository;
 
-namespace Call
+namespace InMemory
 {
     public class UnitOfWork : IUnitOfWork
     {
